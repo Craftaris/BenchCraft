@@ -1,0 +1,6 @@
+name: BenchCraft
+main: me.benchcraft.bcf.BenchCraft
+version: 1.0
+author: LTEpic
+api-version: 1.13
+description: Kilka przydatnych dodatków na sewer Ananasków - BenchCraft.
