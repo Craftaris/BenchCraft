@@ -61,6 +61,10 @@ private FileConfiguration config;
 	public FileConfiguration getDatabase() {
 		return this.database;
 	}
+	
+	/**
+	 * Rejestracja configu - na razie z niego nie korzystamy, ale w przyszłości być może będzie potrzebny.
+	 */
    
 	private void registerConfig() {
 	    this.configFile = new File(getDataFolder(), "config.yml");
