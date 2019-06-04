@@ -12,5 +12,3 @@ Plugin może być w przyszłości dalej rozwijany w zależności od potrzeb serw
  
   W razie problemów, najszybszy kontakt jest ze mną za pomocą discorda: LTE#5165
 
-
-![alt text](https://gamepedia.cursecdn.com/minecraft_gamepedia/thumb/e/e6/Sleeping_Baby_Fox.png/124px-Sleeping_Baby_Fox.png?version=c1789f8bbb3bb6e6deb2b1a2377fb31f) 
