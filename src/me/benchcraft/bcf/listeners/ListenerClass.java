@@ -40,6 +40,7 @@ public class ListenerClass implements Listener {
 	* PlayerJoinEvent odpala się przy wejściu gracza na serwer.
 	* Metoda setJoinMessage ustawia wiadomość wejściową.
 	* Bardzo ważne jest oddzielenie OPa od reszty graczy, gdyż OP połyka wszystkie uprawnienia.
+	* Gracz z uprawnieniem benchcraft.girl będzie miał inną wiadomość - WYMAGA PLUGINU NA UPRAWNIENIA.
 	*/
 	  
 	@EventHandler
@@ -71,6 +72,7 @@ public class ListenerClass implements Listener {
 	 * PlayerQuitEvent odpala się przy wyjściu gracza z serwera.
 	 * Metoda setQuitMessage ustawia wiadomość wyjściową.
 	 * Bardzo ważne jest oddzielenie OPa od reszty graczy, gdyż OP połyka wszystkie uprawnienia.
+	 * Gracz z uprawnieniem benchcraft.girl będzie miał inną wiadomość - WYMAGA PLUGINU NA UPRAWNIENIA.
 	 */
 	  
 	@EventHandler
